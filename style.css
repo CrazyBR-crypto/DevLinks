@@ -102,6 +102,7 @@ body * {
   border: 2px solid var(--stroke-color);
   backdrop-filter: blur(4px);
   border-radius: 9999px;
+  box-shadow: inset 4px 4px rgba(0, 0, 0, 0.1);
 }
 
 /*lista de botoes*/
